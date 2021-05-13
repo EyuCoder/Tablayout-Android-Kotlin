@@ -1,3 +1,5 @@
 # Tablayout-Android-Kotlin
 
-<img src"screenshot.png" heght="100px">
+<p align="center">
+  <img align="" src="screenshot.png" width="" height="300px">
+</p>
